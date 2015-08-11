@@ -1,0 +1,15 @@
+//
+//  InWestminster-Prefix.pch
+//  InWestminster
+//
+//  Created by leihe on 13/07/2015.
+//  Copyright (c) 2015 leihe. All rights reserved.
+//
+
+#ifndef InWestminster_InWestminster_Prefix_pch
+#define InWestminster_InWestminster_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
